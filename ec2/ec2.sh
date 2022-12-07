@@ -19,4 +19,4 @@ DNS=`aws cloudformation list-exports \
 echo $DNS
 
 echo "[all]" > $INV
-echo $DNS >> $INV
+echo $IP >> $INV

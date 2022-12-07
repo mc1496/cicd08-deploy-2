@@ -1,2 +1,2 @@
 [all]
-ec2-3-90-206-126.compute-1.amazonaws.com
+34.226.123.15
