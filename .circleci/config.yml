@@ -17,7 +17,7 @@ jobs:
       - run:
           name: "Say hello"
           command: "echo Hello, World!"
-   configure_infrastructure: 
+  configure_infrastructure: 
     docker:
       - image: python:3.7-alpine3.11
     steps:
